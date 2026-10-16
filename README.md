@@ -46,3 +46,6 @@ GitHub's UI may change. If you cannot find a step, check GitHub Pages documentat
 - [x] Feedback page
 - [ ] Publish and test the public link
 - [ ] Add published website URL to written report title page
+
+
+Product photos are stored locally in the repository so they do not rely on external image links. The mockup currently features five product styles with matching photos.
